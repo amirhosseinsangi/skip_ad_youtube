@@ -2,7 +2,7 @@ import pyautogui
 import time
 import os
 
-image_path = r"C:\Users\amirhossein-sangi\Desktop\skip_bot\icon\skip.png"
+image_path = r" your image path "
 
 print("Skip Ad")
 
